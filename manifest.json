@@ -1,0 +1,10 @@
+{
+  "codeowners": ["@jswetzen"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/jswetzen/tibber-custom-component",
+  "domain": "tibber_lowest",
+  "name": "Tibber lowest price",
+  "version": "0.4",
+  "requirements": ["pandas"]
+}
